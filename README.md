@@ -7,10 +7,8 @@ This repository contains a comprehensive study and implementation of various mac
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Documentation](#documentation)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
@@ -24,13 +22,13 @@ The primary objective of this project is to provide an in-depth analysis of mult
 
 ## Repository Structure
 
-- `data_preprocessing_and_model_training/`
+- `Data Preprocessing and Model Training/`
   - Contains Jupyter notebooks and the dataset used for data preprocessing and model training.
-- `flask_app_development/`
+- `Flask App Development/`
   - Contains Flask code, HTML, and CSS files for developing the web application.
-- `model_testing/`
+- `Model Testing/`
   - Contains testing files and Jupyter notebooks for model testing and evaluation.
-- `project_report.pdf`
+- `Project Report.pdf`
   - A detailed project report outlining the methodology, implementation, and findings of the study.
 
 ## Getting Started
