@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/duanepm/Systematic-Analysis-of-Various-ML-Models-on-Wild-Blueberry-Yield-Prediction.git
+   git clone https://github.com/duanepm/Systematic-Analysis-of-Various-ML-Models-for-Wild-Blueberry-Yield-Prediction.git
 
 ## Documentation
 Refer to the Project Report that includes system design, implementation details, and results.<br />
