@@ -1,4 +1,4 @@
-# Systematic Analysis of Various ML Models on Wild Blueberry Yield Prediction
+# Systematic Analysis of Various ML Models for Wild Blueberry Yield Prediction
 
 This repository contains a comprehensive study and implementation of various machine learning models to predict the yield of wild blueberries. The project explores, analyzes, and compares the performance of different machine learning algorithms in agricultural yield prediction, specifically focusing on wild blueberries.
 
